@@ -3,6 +3,8 @@
 
 ### Retos
 
-* [challenge01](chanllenge01.py)
-* [challenge02](chanllenge02.py)
-* [challenge03](chanllenge03.py)
+* [challenge01](challenge01.py)
+* [challenge02](challenge02.py)
+* [challenge03](challenge03.py)
+* [challenge02](challenge04.py)
+* [challenge02](challenge05.py)
