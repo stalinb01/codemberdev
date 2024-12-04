@@ -5,3 +5,4 @@
 
 * [challenge01](chanllenge01.py)
 * [challenge02](chanllenge02.py)
+* [challenge03](chanllenge03.py)
