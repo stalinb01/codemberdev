@@ -6,5 +6,5 @@
 * [challenge01](challenge01.py)
 * [challenge02](challenge02.py)
 * [challenge03](challenge03.py)
-* [challenge02](challenge04.py)
-* [challenge02](challenge05.py)
+* [challenge04](challenge04.py)
+* [challenge05](challenge05.py)
