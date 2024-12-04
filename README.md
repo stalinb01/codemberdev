@@ -1,3 +1,7 @@
-# codemberdev
-## Trucos y Secretos de codember.dev
-This repository it's about the codember.dev of midudev
+# codember.dev
+## Soluciones de Retos y Secretos de codember.dev 2024
+
+### Retos
+
+* [challenge01](chanllenge01.py)
+* [challenge02](chanllenge02.py)
